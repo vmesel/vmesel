@@ -2,7 +2,7 @@ Hello!
 
 I'm Vinicius Mesel (he/his), I've being a web developer (backend) and data-(science|engineering) enthusiast for 6 years!
 
-My main work is on [Ukor][0] and [MaisRetorno][1], both initiatives to help people get their best return - Ukor in it's health and MaisRetorno in it's Financial Returns. I'm working on a new project called PairMeUp.
+My main work is on [MaisRetorno][1], an initiative to help people get their best Financial Returns.
 
 Previous Jobs:
 
@@ -15,6 +15,11 @@ Previous Jobs:
 I already worked with Investment Banking at Banco Safra's MFO (Multi-family office), Itau BBA Private Bank Sales Desk, and I work @ Mais Retorno nowadays as my full-time employment (RecrutaDev contractor).
 
 
-[0]: https://ukor.com.br
+## Personal Projects 
+
+ - PyJobs (2017 - 2021) - Website to find Python only jobs, [merged to Pluo on 2021][2]
+ - PairMeUp Bot (2022) - Random Pairing on Discord
+
+
 [1]: https://maisretorno.com
 [2]: https://www.tecmundo.com.br/mercado/222682-exponential-ventures-compra-pyjobs-frontjobs-recrutadev.htm
