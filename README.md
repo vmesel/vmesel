@@ -6,7 +6,7 @@ My main work is on [MaisRetorno][1], an initiative to help people get their best
 
 Previous Jobs:
 
-- Software Engineer @ Mais Retorno and Ukor (2022 - Present)
+- Software Engineer & Data Engineer @ Mais Retorno (2022 - Present)
 - Software Engineer @ Mais Retorno (2020 - 2021)
 - Products and Tech Intern @ Banco J Safra and Emerald MFO (2018 - 2019)
 - Original Founder & CEO @ Pluo (2017 - 2022) - [Exited (It was created as a side project (on 2017) and turned into a startup on 2021)][2]
