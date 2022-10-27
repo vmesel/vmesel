@@ -12,7 +12,7 @@ Previous Jobs:
 - Original Founder & CEO @ Pluo (2017 - 2022) - [Exited (It was created as a side project (on 2017) and turned into a startup on 2021)][2]
 - AI Intern @ Cognitivo.ai (2017 - 2018)
 
-I already worked with Investment Banking at Banco Safra's MFO (Multi-family office), Itau BBA Private Bank Sales Desk, and I work @ Mais Retorno nowadays as my full-time employment (RecrutaDev contractor).
+I already worked with Investment Banking at Banco Safra's MFO (Multi-family office), Itau BBA Private Bank Sales Desk, and I work @ Mais Retorno nowadays as my full-time employment (Plotz Creative Code contractor).
 
 
 ## Personal Projects 
