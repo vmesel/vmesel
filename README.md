@@ -1,6 +1,6 @@
 Hello!
 
-I'm Vinicius Mesel (he/his), I've been a web developer (backend) and data-(science|engineering) enthusiast for 6 years!
+I'm Vinicius Mesel (he/his), I've been a web developer (backend) and data-(science|engineering) enthusiast for 7 years!
 
 I work as a Machine Learning & Software Engineer at [Banco Itaú][1], a significant financial institution in Brazil.
 
