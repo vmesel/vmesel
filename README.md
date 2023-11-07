@@ -2,7 +2,7 @@ Hello!
 
 I'm Vinicius Mesel (he/his), I've been a web developer (backend) and data-engineering enthusiast for 7 years!
 
-I work as a Integrations & Software Engineer at [HotGlue][0], a startup accelerated by YCombinator.
+I work as a Integrations & Software Engineer at [HotGlue][1], a startup accelerated by YCombinator.
 
 Previous Jobs:
 
