@@ -2,12 +2,12 @@ Hello!
 
 I'm Vinicius Mesel (he/his), I've been a web developer (backend) and data-engineering enthusiast for 7 years!
 
-I work as a Integrations & Software Engineer at [HotGlue][1], a startup accelerated by YCombinator.
+I work as an Independent Software Consultant.
 
 Previous Jobs:
 
-- Software & Integrations Engineer at HotGlue (2023 - present)
-- Machine Learning & Software Engineer at Banco Itaú (2023 - 2023)
+- Software Engineering Consultant at HotGlue (2023)
+- Machine Learning & Software Engineering Consultant at Banco Itaú (2023 - 2023)
 - Software Engineer & Data Engineer @ Mais Retorno (2020 - 2021, 2022 - 2023)
 - Products and Tech Intern @ Banco J Safra and Emerald MFO (2018 - 2019)
 - Original Founder & CEO @ Pluo (part-time: 2017 - 2020, full-time 2021 - 2022) - [Acquired (It was created as a side project (on 2017) and turned into a startup on 2021)][2]
