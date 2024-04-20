@@ -16,11 +16,11 @@ Previous Jobs:
 I also worked with Investment Banking at Banco Safra's MFO (Multi-family office), Itau BBA Private Bank Sales Desk. Not a very long career but I've learned a lot in the Investment Banking area.
 
 
-## Personal Projects 
+## Open Source Projects 
 
  - PyJobs (2017 - 2021) - Website to find Python-only jobs, [sold and rebranded to Pluo on 2021][2]
- - PairMeUp Bot (2022) - Random Pairing on Discord
+ - PairMeUp Bot (2022 - 2022) - Random Pairing on Discord
+ - Talkd.AI (2023 - current) - LLM Ops framework for improving deploy and usage of LLMs by developers
 
 [1]: https://hotglue.com
 [2]: https://www.tecmundo.com.br/mercado/222682-exponential-ventures-compra-pyjobs-frontjobs-recrutadev.htm
-[3]: https://itau.com.br
